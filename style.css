@@ -1,6 +1,6 @@
 body {
-  background-image: url("Sprinkles.jpg");
-  background-color: hsl(213, 85%, 92%);
+  
+  background-color:black;
   background-blend-mode: overlay;
   text-align: center;
   background-size: cover;
@@ -15,7 +15,7 @@ html{
 }
 
 #myCanvas1 {
-  border: 1px solid black;
+  border: 3px solid rgb(207, 167, 22);
   background-image: url("supermarket-interior-shelf_165488-3982.avif");
   background-size: cover;
   background-position: center;
